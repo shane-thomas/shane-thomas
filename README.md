@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Shane and I'm an app developer based in India</h2>
+<p align="left">
+  I'm passionate about building intuitive, user-focused applications with a strong emphasis on performance and design. I enjoy turning ideas into real products and constantly improving my craft.
+</p>
 
 ###
 
